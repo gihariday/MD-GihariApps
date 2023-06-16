@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "906170520071",
+    "project_id": "capstone-project-gihari",
+    "storage_bucket": "capstone-project-gihari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906170520071:android:2809b5b9cd4a2d20e810a2",
+        "android_client_info": {
+          "package_name": "com.dicoding.c23_pc713.gihariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906170520071-nttuhahic2u6h2ec12dprrdl73hau3ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.c23_pc713.gihariapp",
+            "certificate_hash": "64d6a6c254fab2c17e0f0780635a419bb0795e4c"
+          }
+        },
+        {
+          "client_id": "906170520071-tqig1e3e10b2va6akodtm9t7ot9bvm2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSYIw1SxUrtdCI0-CvOzeNcT8mPJZOwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906170520071-tqig1e3e10b2va6akodtm9t7ot9bvm2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

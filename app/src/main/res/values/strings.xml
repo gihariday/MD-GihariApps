@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GihariApp</string>
+
+    <string name="chat">Chat</string>
+    <string name="photo">gallery</string>
+    <string name="journal">articles</string>
+    <string name="configure">settings</string>
+    <string name="dashboard_gihari">Dashboard Gihari</string>
+
+    <string-array name="data_name">
+        <item>Berkenalan dengan kesehatan mental</item>
+        <item>Tahukah kamu? pentingnya menjaga mental illnes</item>
+        <item>Kesehatan mental anak</item>
+        <item>Mengenali Masalah Kesehatan jiwa pada Remaja</item>
+        <item>Cara Menjaga Kesehatan Mental</item>
+        <item>Mental Health in Islamic Perspective</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/article1</item>
+        <item>@drawable/article2</item>
+        <item>@drawable/article3</item>
+        <item>@drawable/article4</item>
+        <item>@drawable/article5</item>
+        <item>@drawable/article7</item>
+    </integer-array>
+
+</resources>
